@@ -28,7 +28,7 @@ public class Activity1 {
            System.out.println("Reign Myer F. Mendoza - BSIT 2A");
            System.out.println("Jerome F. Magno - BSIT 2B");
 
-
+	   System.out.println("Aaron San Agustin - BSIT-2A");
 
 
 
