@@ -13,6 +13,12 @@ public class Activity1 {
            System.out.println("Jener N. Demetrial - BSIT-2A");
            System.out.println("Nate Christian I. Walo - BSIT-2A");
            System.out.println("Stephen Louise C. Lanzar - BSIT-2B");
+<<<<<<< HEAD
+	   System.out.println("Aaron San Agustin - BSIT-2A");
+=======
+
+           System.out.println("Louie Justine V. Luceor - BSIT-2A");
+
 
            System.out.println("Joel P. Lluz Jr. - BSIT-2A");
 
@@ -20,11 +26,11 @@ public class Activity1 {
            System.out.println("Kiel Rivera - BSIT-2B");	
 
            System.out.println("Reign Myer F. Mendoza - BSIT 2A");
+           System.out.println("Jerome F. Magno - BSIT 2B");
 
 
-	   System.out.println("Jade Evans E. Francisco - BSIT 2A");
 
-
+>>>>>>> upstream/main
 
     }
 }
